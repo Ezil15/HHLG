@@ -1,7 +1,4 @@
 export(int, "None", "Poweruper", "Releaser", "Materializator") var charClass
-enum  typeClass {NONE = 0, POWERUPER = 1, RELEASER = 2, MATERIALIZATOR = 3}
-
-
 
 var distance = 0
 var concentrate = 0
